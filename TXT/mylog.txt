@@ -1,1 +1,11 @@
 # Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W00 30 L03 Making a github repo and update mylog.txt
+ZCZC W00 15 L04 Making a github page
+ZCZC W00 75 L82 Reading an OS digital book
+ZCZC W00 200 L02 Class
+ZCZC W00 80 L05 Studying for quiz and take a quiz (I got 12/25 cause of error :( )
+ZCZC W00 330 L80 Watching so many youtube videos, my favorite this week is veritasium's video "Why Democracy Is Mathematically Impossible"
+ZCZC W00 246 L81 Litsening on youtube music, currently vibing to '[Celeste D-Sides OST] 02: "True Love"'
+ZCZC W00 115 L73 Playing Celeste
