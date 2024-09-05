@@ -9,3 +9,7 @@ ZCZC W00 80 L05 Studying for quiz and take a quiz (I got 12/25 cause of error :(
 ZCZC W00 330 L80 Watching so many youtube videos, my favorite this week is veritasium's video "Why Democracy Is Mathematically Impossible"
 ZCZC W00 246 L81 Litsening on youtube music, currently vibing to '[Celeste D-Sides OST] 02: "True Love"'
 ZCZC W00 115 L73 Playing Celeste
+ZCZC W01 20 L61 Install Virtual Box
+ZCZC W01 100 L63 Install Debian Guest
+ZCZC W01 100 L10 Working on Assignment week 01 :D
+ZCZC W01 200 L02 Class
