@@ -16,5 +16,14 @@ ZCZC W01 200 L02 Class
 ZCZC W01 120 L06 Reading chapter 18 related on OS digital book
 ZCZC W01 120 L03 Making index.md and links.md files and update the readme.md and mylog.txt
 ZCZC W01 363 L80 Watching so many youtube videos, my favorite this week is Historically's video "How to Revive your Country (as a prince)"
-ZCZC W00 219 L81 Litsening on youtube music
-ZCZC W00 181 L73 Playing Celeste
+ZCZC W01 219 L81 Litsening on youtube music
+ZCZC W01 181 L73 Playing Celeste
+ZCZC W02 120 L26 Generate, Import, Export, and Backing up
+ZCZC W02 120 L23 Playing with some bash scripts
+ZCZC W02 200 L02 Class
+ZCZC W02 100 L06 Reading chapter 16 and 17 on OS digital book
+ZCZC W02 120 L03 Create myrank.txt and updating on many txt files and md files
+ZCZC W02 120 L12 Other assignment related to week 02 and doing some pop quiz
+ZCZC W02 286 L80 Watching so many youtube videos, my favorite this week is Reducible's video "5 Simple Steps for Solving Dynamic Programming Problems"
+ZCZC W02 237 L81 Litsening on youtube music
+ZCZC W02 190 L73 Playing Celeste
