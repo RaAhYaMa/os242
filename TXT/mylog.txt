@@ -29,6 +29,8 @@ ZCZC W02 237 L81 Litsening on youtube music
 ZCZC W02 190 L73 Playing Celeste
 ZCZC W03 30 L61 Backing up my OVA file
 ZCZC W03 10 L03 Just do some add, commit, and push
+ZCZC W03 60 L31 Add/Create An Extra Virtual Disk
+ZCZC W03 10 L41 Updating mylog.txt
 ZCZC W03 80 L80 Watching some youtube videos
 ZCZC W03 66 L81 Litsening on some musics
 ZCZC W03 90 L73 Playing some games
