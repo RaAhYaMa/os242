@@ -39,3 +39,14 @@ ZCZC W03 30 L43 Reviewing links and update myrank.txt
 ZCZC W03 279 L80 Watching some youtube videos
 ZCZC W03 348 L81 Litsening on some musics
 ZCZC W03 90 L73 Playing some games
+ZCZC W04 200 L02 Class
+ZCZC W04 60 L61 Backing up my OVA file
+ZCZC W94 30 L03 Just do some add, commit, and push
+ZCZC W04 120 L13 Have read the books, tried the previous midterm problem, and tried the demos
+ZCZC W04 30 L23 Assignment Scripts
+ZCZC W04 30 L25 Making a C and Makefile scripts
+ZCZC W04 30 L41 Updating mylog.txt
+ZCZC W04 30 L43 Reviewing links and update myrank.txt
+ZCZC W04 370 L80 Watching some youtube videos
+ZCZC W04 168 L81 Litsening on some musics
+ZCZC W04 63 L73 Playing some games
