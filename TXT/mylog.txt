@@ -50,3 +50,15 @@ ZCZC W04 30 L43 Reviewing links and update myrank.txt
 ZCZC W04 370 L80 Watching some youtube videos
 ZCZC W04 168 L81 Litsening on some musics
 ZCZC W04 63 L73 Playing some games
+ZCZC W05 200 L02 Class
+ZCZC W05 60 L61 Backing up my OVA file
+ZCZC W05 30 L03 Just do some add, commit, and push
+ZCZC W05 120 L13 Have read the books, tried the previous midterm problem, and tried the demos
+ZCZC W05 60 L23 Assignment Scripts
+ZCZC W05 30 L25 Making a C and Makefile scripts
+ZCZC W05 30 L31 Setting the virtual to low memory
+ZCZC W05 30 L41 Updating mylog.txt
+ZCZC W05 30 L43 Reviewing links and update myrank.txt
+ZCZC W05 212 L80 Watching some videos
+ZCZC W05 327 L81 Litsening on some musics
+ZCZC W05 57 L73 Playing some games
