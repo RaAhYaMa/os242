@@ -74,3 +74,15 @@ ZCZC W06 30 L43 Reviewing links and update myrank.txt
 ZCZC W06 179 L80 Watching some videos
 ZCZC W06 219 L81 Litsening on some musics
 ZCZC W06 150 L73 Playing some games
+ZCZC W07 200 L02 Class
+ZCZC W07 60 L61 Backing up my OVA file
+ZCZC W07 30 L03 Just do some add, commit, and push
+ZCZC W07 120 L13 Have read the books, tried the previous midterm problem, and tried the demos
+ZCZC W07 60 L23 Assignment Scripts
+ZCZC W07 30 L25 Making a C and Makefile scripts
+ZCZC W07 60 L31 Build a blog in Docusaurus
+ZCZC W07 30 L41 Updating mylog.txt
+ZCZC W07 30 L43 Reviewing links and update myrank.txt
+ZCZC W07 373 L80 Watching some videos
+ZCZC W07 991 L81 Litsening on some musics
+ZCZC W07 242 L73 Playing some games
